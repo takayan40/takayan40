@@ -5,7 +5,7 @@
 Spring Boot による業務システム・API 開発を軸に、直近は AWS CDK / Terraform によるインフラのコード化、クレデンシャルレスな CI/CD、多層防御のセキュリティ設計に取り組んでいます。
 言語や技術はプロジェクトに合わせて素早く身につけ、お客様の業務ドメインを深く理解したうえで、**処理の高速化と保守しやすい設計の両立**を大切にしています。
 
-- 🎮 個人開発: Unity 製パズルゲーム [GravityRoom](https://play.google.com/store/apps/details?id=io.github.takayan40.gravityroom)（Google Play）
+- 🎮 個人開発: Unity 製パズルゲーム **GravityRoom** を iOS / Android で公開中（[App Store](https://apps.apple.com/jp/app/gravityroom/id6761293555) ・ [Google Play](https://play.google.com/store/apps/details?id=io.github.takayan40.gravityroom)）
 - 🌐 Web: [takayan40.github.io](https://takayan40.github.io)
 
 ### 🏅 資格

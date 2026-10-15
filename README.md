@@ -80,4 +80,4 @@ Spring Boot による業務システム・API 開発を軸に、直近は AWS CD
 
 ### 📫 連絡先
 
-[LinkedIn](https://www.linkedin.com/in/takaya-suzuki-7b2814169/) ・ [Wantedly](https://www.wantedly.com/id/takayan40) ・ [X (Twitter)](https://twitter.com/takayan40_)
+[X (Twitter)](https://x.com/takayan40_)
